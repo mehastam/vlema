@@ -22,7 +22,7 @@ channels = [
 "FarahVPN",
 "joinNASNETGroup",
 "wikitajrobe_g",
-"Trick_mobil",
+"ConfigsHUB",
 "v2ray_Extractor",
 "codbazann",
 "irPerplexity",
