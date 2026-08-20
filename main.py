@@ -40,7 +40,8 @@ channels = [
 "Hope_Net",
 "v2ray_fa3t",
 "NetiShield",
-"vpn_winter"
+"vpn_winter",
+"DeltaKroneckerGithub"
 ]
 string_session_env = os.getenv("TG_STRING_SESSION")
 client = TelegramClient(StringSession(string_session_env), api_id, api_hash)
