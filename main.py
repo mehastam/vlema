@@ -24,7 +24,6 @@ channels = [
 "FarahVPN",
 "joinNASNETGroup",
 "wikitajrobe_g",
-"ConfigsHUB",
 "v2ray_Extractor",
 "codbazann",
 "irPerplexity",
