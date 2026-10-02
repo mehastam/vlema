@@ -18,6 +18,7 @@ channels = [
 "v2ray_configs_pool",
 "filembad",
 "V2All",
+"An0nymousTeam",
 "SOSkeyNET",
 "FarahVPN",
 "joinNASNETGroup",
