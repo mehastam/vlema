@@ -12,6 +12,7 @@ api_id = 29637444
 api_hash = os.getenv("MY_TG_TOKEN")
 channels = [
 "ConfigsHUB2",
+"ConfigsHUB",
 "chillguy_vpn",
 "Proxyloneylove",
 "v2ray_dalghak",
